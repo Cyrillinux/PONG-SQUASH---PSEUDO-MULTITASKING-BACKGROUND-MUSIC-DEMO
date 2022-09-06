@@ -6,7 +6,7 @@ SQUASH.EXE  : Main program (Launch subprograms...)
 
 SNDSVRA.COM : Sound Server Part (Level) A (Charging in Memoiry)
 SNDSTOP.COM : Sound Server Stop
-SQPA.COM    : Squash Game Part (Level) A -> Clone of PONG writed by roozbehsayadi/Pong-Game : Many thanks roozbehsayadi ;-)
+SQPA.COM    : Squash Game Part (Level) A : fork of PONG writed by roozbehsayadi, Many thanks ;-) (github : roozbehsayadi/Pong-Game) 
 
 -> See SRC. : All Source codes
 

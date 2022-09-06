@@ -2,6 +2,8 @@
 
 SQUASH - DEMO Sound Pseudo-Multitasking example (Running in background)
 
+Pur assembly 8086.
+
 SQUASH.EXE  : Main program (Launch subprograms...)
 
 SNDSVRA.COM : Sound Server Part (Level) A (Charging in Memory)

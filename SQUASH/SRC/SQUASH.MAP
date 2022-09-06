@@ -1,0 +1,13 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 000F4H 000F5H CSEG               CODE
+ 00100H 0013FH 00040H STACK              STACK
+ 00140H 0023EH 000FFH DATA               DATA
+ 00240H 0025DH 0001EH ENVIR              ENVIR
+
+Fixup overflow in module SQUASH.ASM at CSEG:0096, target = 0000:0000
+Fixup overflow in module SQUASH.ASM at CSEG:00B5, target = 0000:0000
+Fixup overflow in module SQUASH.ASM at CSEG:00D4, target = 0000:0000
+Program entry point at 0000:0000
+

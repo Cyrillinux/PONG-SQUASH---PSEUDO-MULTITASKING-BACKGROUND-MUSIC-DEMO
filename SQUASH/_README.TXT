@@ -9,5 +9,6 @@ SNDSTOP.COM : Sound Server Stop
 SQPA.COM    : Squash Game Part (Level) A : fork of PONG writed by roozbehsayadi, Many thanks ;-) (github : roozbehsayadi/Pong-Game) 
 
 -> See SRC. : All Source codes
+            : MAKE.BAT for BUILD
 
 Cyril

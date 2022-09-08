@@ -6,7 +6,7 @@ Pur assembly 8086.
 
 SQUASH.EXE  : Main program (Launch subprograms...)
 
-SNDSVRA.COM : Sound Server Part (Level) A (Charging in Memory)
+SNDSVRA.COM : Sound Server Part (Level) A (Loaded in Memory)
             : Based on song player written by ohammadalfarisi,  Many thanks ;-) (https://medium.com/@mohammadalfarisi00)
 SNDSTOP.COM : Sound Server Stop
 SQPA.COM    : Squash Game Part (Level) A
